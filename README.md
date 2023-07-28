@@ -1,4 +1,4 @@
-# E-commerceOnlineBookShop
+# E-commerce Online Book-Shop
 
 • Developed an e-commerce book store platform with admin and user
 panels. In the admin panel, all the clients are listed and allow to
